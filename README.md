@@ -90,7 +90,7 @@ en proceso:
 
 <br/>
 
-[![Top.gg](https://img.shields.io/badge/en_Top.gg-%23C084FC?style=for-the-badge&logo=discord&logoColor=white)](https://top.gg/bot/YOUR_BOT_ID)
+[![Top.gg](https://img.shields.io/badge/en_Top.gg-%23C084FC?style=for-the-badge&logo=discord&logoColor=white)](https://top.gg/bot/1352779256836391023)
 [![Web](https://img.shields.io/badge/web-zynxfox.com-%23C084FC?style=for-the-badge&logo=firefox&logoColor=white)](https://zynxfox.com)
 [![Soporte](https://img.shields.io/badge/servidor_de_soporte-únete-%23C084FC?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xaEfs8gbCK)
 

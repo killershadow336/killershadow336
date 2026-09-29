@@ -27,12 +27,14 @@
 
 ---
 
-### github
+<div align="center"
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=killershadow336&show_icons=true&hide_border=true&title_color=C084FC&icon_color=C084FC&text_color=e2d9f3&bg_color=0d0d12" height="155" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killershadow336&layout=compact&hide_border=true&title_color=C084FC&text_color=e2d9f3&bg_color=0d0d12" height="155" alt="langs" />
-</p>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=killershadow336&theme=transparent&background=0d0d12&ring=C084FC&fire=C084FC&currStreakLabel=C084FC&sideLabels=e2d9f3&currStreakNum=e2d9f3&sideNums=e2d9f3&dates=6b6b8a&border=2d2d3a" alt="GitHub Streak" />
+
+<br/><br/>
+</div>
 
 ---
 
@@ -47,7 +49,11 @@ aprendiendo_actualmente:
   - dominando JS/TS y Python para dejar de depender de magias
   - entendiendo mejor linux y arquitecturas web simples
 
-### contacto bot zynxfox
+```
+### ✦ contacto bot zynxfox
 
-- web: [zynxfox.com](https://zynxfox.com)
-- discord: [servidor de soporte](https://discord.gg/xaEfs8gbCK) (user ohiostate)
+<div align="center">
+  
+[![Discord](https://img.shields.io/badge/discord-killershadow336-%23C084FC?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/719712028054519818)
+[![ZynxFox](https://img.shields.io/badge/soporte_zynxfox-únete-%23C084FC?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xaEfs8gbCK)
+[![Web](https://img.shields.io/badge/web-zynxfox.com-%23C084FC?style=for-the-badge&logo=firefox&logoColor=white)](https://zynxfox.com)

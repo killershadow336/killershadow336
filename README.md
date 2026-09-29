@@ -27,6 +27,13 @@
 
 ---
 
+### github
+
+<img src="https://github-readme-stats.vercel.app/api?username=killershadow336&show_icons=true&theme=transparent&title_color=C084FC&icon_color=C084FC&text_color=e2d9f3&border_color=2d2d3a&bg_color=0d0d12&count_private=true" height="155" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killershadow336&layout=compact&theme=transparent&title_color=C084FC&text_color=e2d9f3&border_color=2d2d3a&bg_color=0d0d12" height="155" alt="langs" />
+
+---
+
 ### ✦ en qué ando metido (cuando no procrastino)
 
 ```yaml
@@ -37,3 +44,8 @@ proyectos_activos:
 aprendiendo_actualmente:
   - dominando JS/TS y Python para dejar de depender de magias
   - entendiendo mejor linux y arquitecturas web simples
+
+### contacto bot zynxfox
+
+- web: [zynxfox.com](https://zynxfox.com)
+- discord: [servidor de soporte](https://discord.gg/xaEfs8gbCK) (user ohiostate)
